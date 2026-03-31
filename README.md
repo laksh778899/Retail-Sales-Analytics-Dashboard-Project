@@ -32,3 +32,12 @@ Retail businesses struggle to:
 
 ## 👨‍💻 Author
 Laxman Sharma
+
+
+
+
+
+Power Bi Dashboard Preview
+
+<img width="1651" height="924" alt="Screenshot 2026-03-31 195407" src="https://github.com/user-attachments/assets/47a6544b-a69f-462c-b3cc-0d67a9290880" />
+<img width="1650" height="925" alt="Screenshot 2026-03-31 195422" src="https://github.com/user-attachments/assets/29dfc311-c13c-45f0-8511-5b2521f83c10" />
